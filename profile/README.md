@@ -7,6 +7,8 @@
 Independent creative playground for apps, games, software and experiments.
 Created by [TheArch](https://github.com/TheArch) · One person, many ideas, lots of code.
 
+*Kleine Ideen, die man direkt ausprobieren kann — Apps, Spiele und Tools von Dirk Varnholt.*
+
 **🌐 [pikasso.eu.org](https://pikasso.eu.org)** — Haupt-Übersicht aller Projekte
 
 [![Website](https://img.shields.io/badge/website-pikasso.eu.org-F5A623?style=flat-square&logo=googlechrome&logoColor=black)](https://pikasso.eu.org)
