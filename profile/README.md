@@ -21,7 +21,7 @@ Created by [TheArch](https://github.com/TheArch) · One person, many ideas, lots
 
 ## Was ist Pikasso?
 
-Pikasso ist die private Projektsammlung von Dirk Varnholt: eigenständige Browser-Apps,
+Pikasso ist die unabhängige Projektsammlung von Dirk Varnholt: eigenständige Browser-Apps,
 Rätsel, Spiele und Werkzeuge für Alltag, Neugier und ein paar freie Minuten. Entstanden
 aus Alltag, Neugier und der Freude am Selberbauen — geteilt, weil sie vielleicht jemand
 anderem genauso nützen.
@@ -64,6 +64,6 @@ Persönliche Experimente, Forks und Prototypen laufen unter
 
 ---
 
-<sub>Pikasso ist ein privates Projekt von Dirk Varnholt ·
+<sub>Pikasso ist ein unabhängiges Projekt von Dirk Varnholt ·
 [Impressum](https://pikasso.eu.org/impressum.html) ·
 [Datenschutz](https://pikasso.eu.org/datenschutz.html)</sub>
